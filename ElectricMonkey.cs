@@ -14,3 +14,4 @@ public class ElectricMonkey : BloonsTD6Mod
         ModHelper.Msg<ElectricMonkey>("ElectricMonkey loaded!");
     }
 }
+
